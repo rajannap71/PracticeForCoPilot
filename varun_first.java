@@ -4,6 +4,7 @@ public class varun_first {
 
         num1 = 17;
         num2 = 5;
+
         sum = num1 + num2;
         prod = num1 * num2;
         diff = num1 - num2;
